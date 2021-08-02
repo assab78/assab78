@@ -1,0 +1,1 @@
+generatorKeys.exe > result.txt
